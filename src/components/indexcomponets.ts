@@ -1,3 +1,4 @@
 import Header from "./header/header";
 import Footer from "./footer/footer";
-export { Header, Footer };
+import HeroSection from "./HeroSection/HeroSection";
+export { Header, Footer, HeroSection };
